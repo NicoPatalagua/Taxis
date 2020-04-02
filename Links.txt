@@ -1,0 +1,2 @@
+https://nyc-tlc.s3.amazonaws.com/trip+data/yellow_tripdata_2019-06.csv
+https://nyc-tlc.s3.amazonaws.com/misc/taxi+_zone_lookup.csv
